@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on creation of a glycan microarray data management software built using Laravel.
+- 🔭 I’m currently working on creation of a glycan microarray data management web-application using Laravel.
 
 - 🌱 I’m currently learning Laravel, PostGreSQL and PHP.
