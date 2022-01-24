@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on creation of a glycan microarray data management software built using Laravel.
+
+- 🌱 I’m currently learning Laravel, PostGreSQL and PHP.
