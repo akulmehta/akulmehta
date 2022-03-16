@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on creation of a glycan microarray data management web-application.
+- 🔭 I’m currently working on creation of a glycan centric data management web-application.
